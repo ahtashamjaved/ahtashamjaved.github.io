@@ -12,15 +12,27 @@ export default [
     to: 'Present',
   },
   {
+    degree: 'Masters of Business Administration (MBA)',
+    subject: 'Business, Information Technology',
+    school: 'Virtual University of Pakistan',
+    // marks: {
+    //   unit: 'CGPA',
+    //   total: 4.0,
+    //   obtained: 3.07,
+    // },
+    from: 'March 2012',
+    to: 'September 2015',
+  },
+  {
     degree: 'Bachelor of Science',
-    subject: 'Information Technology',
-    school: 'University of the Punjab, Lahore',
-    marks: {
-      unit: 'CGPA',
-      total: 4.0,
-      obtained: 3.07,
-    },
-    from: 'November 2013',
-    to: 'December 2017',
+    subject: 'Computer Science',
+    school: 'University of the Sargodha',
+  //  marks: {
+    //  unit: 'CGPA',
+    //  total: 4.0,
+    //  obtained: 2.96,
+   // },
+    from: 'September 2007',
+    to: 'October 2011',
   }
 ];
